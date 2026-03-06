@@ -11,16 +11,11 @@ Linux enthusiast and developer. I enjoy working with systems, hardware-software 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Focus Areas
+<!-- ### Focus Areas
 - System automation and scripting using Bash and Python.
 - Embedded systems development with C and Arduino IDE.
 - Containerization and deployment optimization using Docker.
-- Web-based backend services powered by PHP.
-
-### GitHub Stats
-![okapmna's GitHub stats](https://github-readme-stats.vercel.app/api?username=okapmna&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okapmna&layout=compact&theme=transparent)
-
+- Web-based backend services powered by PHP. -->
 
 ### Contact
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alamat-emailmu@gmail.com)
