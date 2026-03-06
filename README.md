@@ -21,9 +21,3 @@ Linux enthusiast and developer. I enjoy working with systems, hardware-software 
 - Embedded systems development with C and Arduino IDE.
 - Containerization and deployment optimization using Docker.
 - Web-based backend services powered by PHP.
-
----
-
-
-### Contact
-- **Email:** [okapramn092@gmail.com]
