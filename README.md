@@ -21,3 +21,8 @@ Linux enthusiast and developer. I enjoy working with systems, hardware-software 
 - Embedded systems development with C and Arduino IDE.
 - Containerization and deployment optimization using Docker.
 - Web-based backend services powered by PHP.
+
+### Contact
+
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alamat-emailmu@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okapmna)
