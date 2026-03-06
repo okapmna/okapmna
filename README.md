@@ -22,7 +22,14 @@ Linux enthusiast and developer. I enjoy working with systems, hardware-software 
 - Containerization and deployment optimization using Docker.
 - Web-based backend services powered by PHP.
 
-### Contact
+---
+### GitHub Stats
 
+![okapmna's GitHub stats](https://github-readme-stats.vercel.app/api?username=okapmna&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okapmna&layout=compact&theme=transparent)
+
+---
+
+### Contact
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alamat-emailmu@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okapmna)
