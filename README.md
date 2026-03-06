@@ -1,16 +1,29 @@
-## Hi there 👋
+# OkaPmna
 
-<!--
-**okapmna/okapmna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux enthusiast and developer. I enjoy working with systems, hardware-software integration, system automation, and backend development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash Script](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### Focus Areas
+- System automation and scripting using Bash and Python.
+- Embedded systems development with C and Arduino IDE.
+- Containerization and deployment optimization using Docker.
+- Web-based backend services powered by PHP.
+
+---
+
+
+### Contact
+- **Email:** [okapramn092@gmail.com]
