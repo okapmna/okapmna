@@ -1,4 +1,4 @@
-# OkaPmna
+# Oka Pramana
 
 Linux enthusiast and developer. I enjoy working with systems, hardware-software integration, system automation, and backend development.
 
