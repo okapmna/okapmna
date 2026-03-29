@@ -14,7 +14,7 @@ Linux enthusiast and developer. I enjoy working with systems, hardware-software 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[unimonMQ-dashboard](https://github.com/okapmna/unimonMQ-dashboard)** | A monitoring Simple PHP-based MQTT IoT dashboard for real-time device monitoring. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **[unimonMQ-dashboard](https://github.com/okapmna/unimonMQ-dashboard)** | A monitoring Simple PHP-based MQTT IoT dashboard for real-time device monitoring. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **[incubatorESP32WiFiAP](https://github.com/okapmna/incubatorESP32WiFiAP)** | Embedded firmware for Smart Egg Incubator System with ESP32 | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
 
 ### Contact
