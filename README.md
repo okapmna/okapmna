@@ -4,11 +4,32 @@ Linux enthusiast and developer. I enjoy working with systems, hardware-software 
 
 ### Tech Stack
 
-| Category | Tech |
-| :--- | :--- |
-| **Backend & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| **Automation, Tools, & Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash Script](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Hardware & Embedded** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) |
+<table>
+  <tr>
+    <td><b>Backend & Scripting</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Automation, Tools, & Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Hardware & Embedded</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ### Featured Projects
 
